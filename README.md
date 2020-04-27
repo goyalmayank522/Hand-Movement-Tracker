@@ -12,7 +12,7 @@ pip install opencv-python
 ## Description
 Video tracking is the process of locating a moving object (or multiple objects) over time using a camera. It has a variety of uses, some of which are: human-computer interaction, security and surveillance, video communication and compression, augmented reality, traffic control, medical imaging, and video editing.
 
-Actually here, It does not track the hand movement but it tracks the movement of the blue-colored object which the user holding it his hand. So, by the means of blue color, hand movement is tracked.
+Here, It does not actually tracks the hand movement but it tracks the movement of the blue-colored object which the user holding it his hand. So, by the means of blue color, hand movement is tracked.
 
 
 
