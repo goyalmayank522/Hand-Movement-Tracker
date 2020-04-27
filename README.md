@@ -1,2 +1,2 @@
 # Hand-Movement-Tracker
-Tracks the hand movement using the Webcam
+Built hand movement tracker using OpenCV and Python. 
